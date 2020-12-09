@@ -9,3 +9,4 @@
 - [Day 6](https://github.com/dylanbuchi/aoc-2020/blob/main/day6/day6.py)
 - [Day 7](https://github.com/dylanbuchi/aoc-2020/blob/main/day7/day7.py)
 - [Day 8](https://github.com/dylanbuchi/aoc-2020/blob/main/day8/day8.py)
+- [Day 9](https://github.com/dylanbuchi/aoc-2020/blob/main/day9/day9.py)
