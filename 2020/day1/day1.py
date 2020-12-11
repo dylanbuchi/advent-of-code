@@ -40,7 +40,7 @@ def get_numbers(file):
 
 
 def main():
-    file_path = os.path.join(os.getcwd(), 'day1', 'numbers.txt')
+    file_path = os.path.join(os.getcwd(), '2020', 'day1', 'numbers.txt')
     numbers = get_numbers(file_path)
 
     part1 = get_part1(numbers, 2020)

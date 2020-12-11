@@ -84,7 +84,7 @@ def get_instructions(file):
 
 
 def main():
-    file = os.path.join(os.getcwd(), 'day8', 'instructions.txt')
+    file = os.path.join(os.getcwd(), '2020', 'day8', 'instructions.txt')
     instructions = get_instructions(file)
 
     part1 = get_part1(instructions)

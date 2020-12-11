@@ -49,7 +49,7 @@ def get_data(file):
 
 
 def main():
-    file_path = os.path.join(os.getcwd(), 'day2', 'data.txt')
+    file_path = os.path.join(os.getcwd(), '2020', 'day2', 'data.txt')
 
     data = get_data(file_path)
 

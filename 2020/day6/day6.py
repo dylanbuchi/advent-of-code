@@ -26,7 +26,7 @@ def get_part2(file):
 
 
 def main():
-    file = os.path.join(os.getcwd(), 'day6', 'questions.txt')
+    file = os.path.join(os.getcwd(), '2020', 'day6', 'questions.txt')
 
     part1 = get_part1(file)
     part2 = get_part2(file)

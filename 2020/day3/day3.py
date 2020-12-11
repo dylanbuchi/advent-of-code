@@ -66,7 +66,7 @@ def get_data(file):
 
 
 def main():
-    path = os.path.join(os.getcwd(), 'day3', 'locations.txt')
+    path = os.path.join(os.getcwd(), '2020', 'day3', 'locations.txt')
 
     locations = get_data(path)
 

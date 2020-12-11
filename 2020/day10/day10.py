@@ -33,7 +33,7 @@ def get_joltages(file):
 
 def main():
 
-    file = os.path.join(os.getcwd(), 'day10', 'joltages.txt')
+    file = os.path.join(os.getcwd(), '2020', 'day10', 'joltages.txt')
     joltages = get_joltages(file)
 
     part1 = get_part1(joltages)

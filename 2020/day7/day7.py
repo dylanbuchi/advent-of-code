@@ -24,7 +24,7 @@ def get_part1(file):
 
 
 def main():
-    file = os.path.join(os.getcwd(), 'day7', 'bags.txt')
+    file = os.path.join(os.getcwd(), '2020', 'day7', 'bags.txt')
     part1 = get_part1(file)
 
     print(f'Part1: {part1}')

@@ -110,7 +110,7 @@ def check_passports_by_rules(values: list):
 
 
 def main():
-    file = os.path.join(os.getcwd(), 'day4', 'passports.txt')
+    file = os.path.join(os.getcwd(), '2020', 'day4', 'passports.txt')
     passports = get_passports(file)
 
     part1 = get_part1(passports)

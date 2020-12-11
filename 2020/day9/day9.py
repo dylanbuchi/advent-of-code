@@ -71,7 +71,7 @@ def get_numbers(file: str):
 
 
 def main():
-    file = os.path.join(os.getcwd(), 'day9', 'numbers.txt')
+    file = os.path.join(os.getcwd(), '2020', 'day9', 'numbers.txt')
 
     numbers = get_numbers(file)
 

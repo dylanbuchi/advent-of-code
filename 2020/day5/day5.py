@@ -60,7 +60,7 @@ def get_col_data(col: str):
 
 
 def main():
-    file = os.path.join(os.getcwd(), 'day5', 'boarding_passes.txt')
+    file = os.path.join(os.getcwd(), '2020', 'day5', 'boarding_passes.txt')
     boarding_passes = get_boarding_passes(file)
 
     part1 = get_part1(boarding_passes)
