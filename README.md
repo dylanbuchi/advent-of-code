@@ -1,6 +1,6 @@
 # Advent of Code
 
-### My solutions in Python to the [Advent of Code](https://adventofcode.com/)
+### My Python solutions to the [Advent of Code](https://adventofcode.com/)
 
 ---
 
