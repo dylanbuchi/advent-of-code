@@ -1,8 +1,10 @@
 # Advent of Code
 
-### My solutions to the [Advent of Code](https://adventofcode.com/)
+### My solutions in Python to the [Advent of Code](https://adventofcode.com/)
 
 ---
+
+## [2022](https://github.com/dylanbuchi/aoc/tree/main/2022)
 
 ## [2021](https://github.com/dylanbuchi/aoc/tree/main/2021)
 
