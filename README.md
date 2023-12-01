@@ -4,6 +4,8 @@
 
 ---
 
+## [2023](https://github.com/dylanbuchi/aoc/tree/main/2023)
+
 ## [2022](https://github.com/dylanbuchi/aoc/tree/main/2022)
 
 ## [2021](https://github.com/dylanbuchi/aoc/tree/main/2021)
